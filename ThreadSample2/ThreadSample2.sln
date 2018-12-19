@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSample2", "ThreadSample2\ThreadSample2.csproj", "{D4D1A051-83C0-4084-BB7F-079B6C19C143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping", "Ping\Ping.csproj", "{9C1C19F7-D171-4ED1-BFB5-D51E09869F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong\Pong.csproj", "{B7F1BD0B-7365-40EE-9B0B-51A263755675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D1A051-83C0-4084-BB7F-079B6C19C143}.Debug|x86.ActiveCfg = Debug|x86
+		{D4D1A051-83C0-4084-BB7F-079B6C19C143}.Debug|x86.Build.0 = Debug|x86
+		{D4D1A051-83C0-4084-BB7F-079B6C19C143}.Release|x86.ActiveCfg = Release|x86
+		{D4D1A051-83C0-4084-BB7F-079B6C19C143}.Release|x86.Build.0 = Release|x86
+		{9C1C19F7-D171-4ED1-BFB5-D51E09869F1E}.Debug|x86.ActiveCfg = Debug|x86
+		{9C1C19F7-D171-4ED1-BFB5-D51E09869F1E}.Debug|x86.Build.0 = Debug|x86
+		{9C1C19F7-D171-4ED1-BFB5-D51E09869F1E}.Release|x86.ActiveCfg = Release|x86
+		{9C1C19F7-D171-4ED1-BFB5-D51E09869F1E}.Release|x86.Build.0 = Release|x86
+		{B7F1BD0B-7365-40EE-9B0B-51A263755675}.Debug|x86.ActiveCfg = Debug|x86
+		{B7F1BD0B-7365-40EE-9B0B-51A263755675}.Debug|x86.Build.0 = Debug|x86
+		{B7F1BD0B-7365-40EE-9B0B-51A263755675}.Release|x86.ActiveCfg = Release|x86
+		{B7F1BD0B-7365-40EE-9B0B-51A263755675}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

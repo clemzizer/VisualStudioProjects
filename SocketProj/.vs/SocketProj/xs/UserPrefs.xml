@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5A23F7C3-2EA1-4F55-89C0-65EE44CC8CDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SocketProj/Program.cs">
+    <Files>
+      <File FileName="SocketProj/Program.cs" Line="15" Column="13" />
+      <File FileName="SocketProjClient/Program.cs" Line="12" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SocketProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

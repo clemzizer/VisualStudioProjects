@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStudentsApp", "ConsoleApplicationHello\ConsoleStudentsApp.csproj", "{4DE0BE62-423B-4EB5-A3B4-3FFB21656981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationTemperatureSensorDemo", "ConsoleApplicationTemperatureSensorDemo\ConsoleApplicationTemperatureSensorDemo.csproj", "{A166903B-5AB5-4630-B716-99764305B192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE0BE62-423B-4EB5-A3B4-3FFB21656981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE0BE62-423B-4EB5-A3B4-3FFB21656981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE0BE62-423B-4EB5-A3B4-3FFB21656981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE0BE62-423B-4EB5-A3B4-3FFB21656981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A166903B-5AB5-4630-B716-99764305B192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A166903B-5AB5-4630-B716-99764305B192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A166903B-5AB5-4630-B716-99764305B192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A166903B-5AB5-4630-B716-99764305B192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

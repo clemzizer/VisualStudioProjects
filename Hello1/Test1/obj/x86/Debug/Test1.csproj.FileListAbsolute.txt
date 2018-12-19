@@ -1,0 +1,6 @@
+/Users/cvoisin/Projects/Hello1/Test1/bin/Debug/Test1.exe
+/Users/cvoisin/Projects/Hello1/Test1/bin/Debug/Test1.pdb
+/Users/cvoisin/Projects/Hello1/Test1/obj/x86/Debug/Test1.csproj.CoreCompileInputs.cache
+/Users/cvoisin/Projects/Hello1/Test1/obj/x86/Debug/Test1.exe
+/Users/cvoisin/Projects/Hello1/Test1/obj/x86/Debug/Test1.pdb
+/Users/cvoisin/Projects/Hello1/Test1/bin/Debug/Student.cs
